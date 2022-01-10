@@ -1,3 +1,9 @@
 body{
     background-color: blue;
 }
+
+p{
+    font-size: 2rem;
+    color: burlywood;
+    letter-spacing: 0.2rem;
+}
